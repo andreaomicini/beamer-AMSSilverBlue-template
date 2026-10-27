@@ -1,5 +1,7 @@
 # beamer-AMSSilverBlue-template
 
+![AMSSilverBlue Beamer template logo](logo/amssilverblue-template-full.svg)
+
 > A ready-to-use presentation skeleton for the
 > [AMSSilverBlue Beamer style](https://github.com/andreaomicini/beamer-AMSSilverBlue)
 
