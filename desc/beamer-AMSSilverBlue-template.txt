@@ -1,1 +1,1 @@
-Usage template for Beamer style AMSSilverBlue
+Template for the "AMSSilverBlue" Beamer style
