@@ -99,9 +99,15 @@ demonstrating the same features. What differs is the palette, which the
 `Colours` and `The Full Palette` frames document, and the `AMS` frame, which
 says where the colours come from.
 
-In the `Citations` frame each weight is demonstrated on a header it can actually
-be read on: `\ccite` on the `block` header and `\cccite`, the lighter of the
-two, on the `alertblock` one.
+Since 1.2 the template follows style 1.3, where the commands take their colour
+from the surface they land on. The `Surfaces` frame states the rule — the
+`block` and `alertblock` headers are dark, all else light — and the doubled
+form of a command is the same command, smaller and quieter. `One Command, Every
+Surface` prints the same source line in the text and in every header and body.
+The `Citations` frame shows `\ccite` on a dark header, on the example one and
+in running text, with its optional note, as in `\ccite[p.~42]{key}`;
+`\cccite` is now the same command. `Alert & Emphasis` shows `\alert` and
+`\emph` in a header, and `\aalert` as the quiet alert.
 
 ## structure
 
