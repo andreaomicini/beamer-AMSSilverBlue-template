@@ -1,5 +1,9 @@
 # beamer-AMSSilverBlue-template
 
+> **Frozen since 2026-11-08.** The template is now
+> [almamater-template](https://github.com/andreaomicini/beamer-almamater-template), one template built
+> once per preset, `AMSSilverBlue` among them. Nothing here changes any more.
+
 ![AMSSilverBlue Beamer template logo](logo/amssilverblue-template-full.svg)
 
 > A ready-to-use presentation skeleton for the
